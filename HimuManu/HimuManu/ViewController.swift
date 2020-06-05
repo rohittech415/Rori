@@ -17,5 +17,8 @@ class ViewController: UIViewController {
 
     var my:String = "hfhfhggf"
     var f = 123
+    
+    var g = 22222
+    var j  = 464664
 }
 
