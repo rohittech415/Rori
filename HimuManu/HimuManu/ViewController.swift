@@ -20,5 +20,7 @@ class ViewController: UIViewController {
     
     var g = 22222
     var j  = 464664
+    
+    var himansu = "himansu"
 }
 
